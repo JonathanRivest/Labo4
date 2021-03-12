@@ -725,11 +725,10 @@ textarea {
   top: 100%;
   left: -999em;
   z-index: 99999;
-}
-
-.main-navigation ul ul ul {
-  left: -999em;
-  top: 0;
+  /*	ul {
+				left: -999em;
+				top: 0;
+			} */
 }
 
 .main-navigation ul ul li:hover > ul,
